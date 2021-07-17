@@ -76,6 +76,7 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 
 Niv Huga - [@HugaNiv](https://twitter.com/HugaNiv) - niv656@gmail.com
+Yarden Gispan - Yargisp@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
